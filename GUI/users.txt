@@ -1,0 +1,2 @@
+teste@teste.com.br;senha123;Nome do Usuário;2024-02-05
+gu@gmail.com;021003;Gustavo;2024-02-03
